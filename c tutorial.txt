@@ -1,0 +1,30 @@
+-variable:
+variable is one location which stores some data .
+a varible in c is a memory location with some name that helps to store some foam of data
+
+-rules:
+1.case sensitive:
+2 .first character is a alphabet  or underscore(_).
+3. no cooma or space between variable name
+4.special symbols are not allowed 
+
+-Datatype:
+types :
+1.int(2 or 4 byte .)
+2.float(it stores fractional number.contains 6 to 7 decimal digits)
+3.char (1byte, store a single letter ,symboll or ascii values)
+4.double(8 byte ,stores fractional numbers .contains 15 decimal digits)
+
+sizeof operator is used to know the size of datatype.
+
+
+-comment line:
+ lines that are not a part of programme 
+-types:
+it starts with \* and ends with *\
+
+-format speciifier;
+for int (%d or %i)
+for float(%f)
+for double(%lf)
+for char(%c)
